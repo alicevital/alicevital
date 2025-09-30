@@ -26,9 +26,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
-
-## 🌐 Let's Connect
-
-- 📫 Feel free to reach out via [GitHub Issues](https://github.com/YOUR_USERNAME)
-- 💼 Portfolio or LinkedIn coming soon...
-
