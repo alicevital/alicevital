@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Alice!</h1>
+<h1 align="center">Hi there, I'm Alice!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank">
@@ -10,13 +10,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Back-End+Developer&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
-## 👩‍💻 About Me
+## About Me
 
 I'm 19 years old and passionate about **Back-End Development** and **Cloud Computing** Currently learning and building with: Python, Django & FastAPI, Azure, MongoDB, Git & GitHub. Focused on creating scalable backend solutions and cloud-native applications
   
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
