@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Alice!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Back-End+Developer;Cloud+Computing+Enthusiast;Python+%7C+Django+%7C+FastAPI+Lover&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Back-End+Developer&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 About Me
