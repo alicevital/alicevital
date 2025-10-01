@@ -27,6 +27,6 @@ I'm 19 years old and passionate about **Back-End Development** and **Cloud Compu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=merko" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=merko" alt="Top Langs"/>
 </p>
