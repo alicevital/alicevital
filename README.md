@@ -18,7 +18,7 @@ Estou imersa nos estudos e projetos utilizando: Python, Django, fastapi, Mongodb
 Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferentes aspectos da área, estou sempre disposta a aprender e constantemente explorando novas tecnologias para expandir minhas habilidades e perspectivas. A cada dia, busco evoluir e aplicar o conhecimento que adquiro em projetos desafiadores.    
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=101038f&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=05071F&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Ferramentas e Tecnologias
 <p align="center">
