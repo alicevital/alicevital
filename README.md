@@ -1,7 +1,8 @@
 <p>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B7FF&height=120&section=header"/>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Alice+Emily+👻;+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00B7FF&size=25&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Alice+Emily+👻;+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank">
@@ -14,9 +15,10 @@
 Olá! Meu nome é Alice Emily e sou uma mente curiosa e apaixonada pelo universo da tecnologia.
 Sou formada em Análise e Desenvolvimento de Sistemas, uma jornada que é apenas o início dos muitos caminhos que pretendo trilhar na área. Atualmente, estou totalmente focada em me tornar uma **desenvolvedora backend**.
 Estou imersa nos estudos e projetos utilizando: Python, Django, fastapi, Mongodb, Git, entre outros.
-Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferentes aspectos da área, estou sempre disposta a aprender e constantemente explorando novas tecnologias para expandir minhas habilidades e perspectivas. A cada dia, busco evoluir e aplicar o conhecimento que adquiro em projetos desafiadores.
-    
+Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferentes aspectos da área, estou sempre disposta a aprender e constantemente explorando novas tecnologias para expandir minhas habilidades e perspectivas. A cada dia, busco evoluir e aplicar o conhecimento que adquiro em projetos desafiadores.    
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=00B7FF&color=00B7FF&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Ferramentas e Tecnologias
 <p align="center">
