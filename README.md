@@ -1,5 +1,5 @@
 <p>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=45D5FF&height=120&section=header"/>
     <h1 align="center">Hi there, I'm Alice Emily!</h1>
 </p>
 
