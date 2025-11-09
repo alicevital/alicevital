@@ -1,9 +1,7 @@
 <p>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B7FF&height=120&section=header"/>
 </p>
-<h1 align="center">
-  <span style="color:#00a400;">Olá, meu nome é Alice Emily!</span>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=25&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Alice+Emily+👻;+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank">
