@@ -1,8 +1,8 @@
 <p>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B7FF&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a9bec&height=120&section=header"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00B7FF&size=25&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Alice+Emily+👻;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc94f4&size=25&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Alice+Emily+👻;Seja+Bem-vindo(a)+ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank">
@@ -18,7 +18,7 @@ Estou imersa nos estudos e projetos utilizando: Python, Django, fastapi, Mongodb
 Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferentes aspectos da área, estou sempre disposta a aprender e constantemente explorando novas tecnologias para expandir minhas habilidades e perspectivas. A cada dia, busco evoluir e aplicar o conhecimento que adquiro em projetos desafiadores.    
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=00B7FF&color=00B7FF&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=101038f&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Ferramentas e Tecnologias
 <p align="center">
@@ -32,8 +32,8 @@ Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferent
 
 ## Github States 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=merko" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=merko" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 <p align="center">
@@ -41,5 +41,5 @@ Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferent
 </p>
 
 </p>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B7FF&height=120&section=footer""/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a9bec&height=120&section=footer""/>
 </p>
