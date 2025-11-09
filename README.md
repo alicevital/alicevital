@@ -1,7 +1,11 @@
 <p>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=45D5FF&height=120&section=header"/>
-    <h1 align="center" color: #00a400>Hi there, I'm Alice Emily!</h1>
 </p>
+
+<p align="center">
+  <span style="font-size:32px; color:#00a400;">Hi there, I'm Alice Emily!</span>
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank">
