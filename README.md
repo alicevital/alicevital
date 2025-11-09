@@ -13,7 +13,10 @@
 
 ## About Me
 
-I'm 19 years old and passionate about **Back-End Development** and **Cloud Computing** Currently learning and building with: Python, Django & FastAPI, Azure, MongoDB, Git & GitHub. Focused on creating scalable backend solutions and cloud-native applications
+Olá! Meu nome é Alice Emily e sou uma mente curiosa e apaixonada pelo universo da tecnologia.
+Sou formada em Análise e Desenvolvimento de Sistemas, uma jornada que é apenas o início dos muitos caminhos que pretendo trilhar na área. Atualmente, estou totalmente focada em me tornar uma **desenvolvedora backend**.
+Estou imersa nos estudos e projetos utilizando: Python, Django, fastapi, Mongodb, Git, entre outros.
+Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferentes aspectos da área, estou sempre disposta a aprender e constantemente explorando novas tecnologias para expandir minhas habilidades e perspectivas. A cada dia, busco evoluir e aplicar o conhecimento que adquiro em projetos desafiadores.
   
 ## Tools & Technologies
 
