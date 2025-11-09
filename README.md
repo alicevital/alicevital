@@ -10,7 +10,7 @@
   </a>
 </p>
 
-# Sobre mim
+## Sobre mim
 <p align="left">
 Olá! Meu nome é Alice Emily e sou uma mente curiosa e apaixonada pelo universo da tecnologia.
 Sou formada em Análise e Desenvolvimento de Sistemas, uma jornada que é apenas o início dos muitos caminhos que pretendo trilhar na área. Atualmente, estou totalmente focada em me tornar uma **desenvolvedora backend**.
@@ -20,7 +20,7 @@ Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferent
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=05071F&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
@@ -29,8 +29,7 @@ Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferent
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
-## Github States 
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=tokyonight" alt="Top Langs"/>
