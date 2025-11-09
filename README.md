@@ -29,7 +29,8 @@ Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferent
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
- 
+
+ ##
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=tokyonight" alt="Top Langs"/>
