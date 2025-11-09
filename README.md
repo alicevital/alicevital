@@ -1,5 +1,5 @@
 <p>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=45D5FF&height=120&section=header"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B7FF&height=120&section=header"/>
 </p>
 <h1 align="center">
   <span style="color:#00a400;">Hi there, I'm Alice Emily!</span>
@@ -40,5 +40,5 @@ I'm 19 years old and passionate about **Back-End Development** and **Cloud Compu
 </p>
 
 </p>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer""/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B7FF&height=120&section=footer""/>
 </p>
