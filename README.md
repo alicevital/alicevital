@@ -12,7 +12,7 @@
 </p>
 
 # Sobre mim
-<p align="center">
+<p align="left">
 Olá! Meu nome é Alice Emily e sou uma mente curiosa e apaixonada pelo universo da tecnologia.
 Sou formada em Análise e Desenvolvimento de Sistemas, uma jornada que é apenas o início dos muitos caminhos que pretendo trilhar na área. Atualmente, estou totalmente focada em me tornar uma **desenvolvedora backend**.
 Estou imersa nos estudos e projetos utilizando: Python, Django, fastapi, Mongodb, Git, entre outros.
