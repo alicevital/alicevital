@@ -11,10 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Back-End+Developer&center=true&width=500&height=45" alt="Typing SVG" />
-</p>
-
 ## About Me
 
 I'm 19 years old and passionate about **Back-End Development** and **Cloud Computing** Currently learning and building with: Python, Django & FastAPI, Azure, MongoDB, Git & GitHub. Focused on creating scalable backend solutions and cloud-native applications
