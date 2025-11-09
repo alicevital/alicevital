@@ -2,7 +2,7 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B7FF&height=120&section=header"/>
 </p>
 <h1 align="center">
-  <span style="color:#00a400;">Hi there, I'm Alice Emily!</span>
+  <span style="color:#00a400;">Olá, meu nome é Alice Emily!</span>
 </h1>
 
 <p align="center">
@@ -11,15 +11,16 @@
   </a>
 </p>
 
-## About Me
-
+# Sobre mim
+<p align="center">
 Olá! Meu nome é Alice Emily e sou uma mente curiosa e apaixonada pelo universo da tecnologia.
 Sou formada em Análise e Desenvolvimento de Sistemas, uma jornada que é apenas o início dos muitos caminhos que pretendo trilhar na área. Atualmente, estou totalmente focada em me tornar uma **desenvolvedora backend**.
 Estou imersa nos estudos e projetos utilizando: Python, Django, fastapi, Mongodb, Git, entre outros.
 Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferentes aspectos da área, estou sempre disposta a aprender e constantemente explorando novas tecnologias para expandir minhas habilidades e perspectivas. A cada dia, busco evoluir e aplicar o conhecimento que adquiro em projetos desafiadores.
-  
-## Tools & Technologies
+    
+</p>
 
+# Ferramentas e Tecnologias
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
@@ -30,7 +31,6 @@ Gosto de explorar outras linguagens, como Java e C++, e me aventurar em diferent
 </p>
 
 ## Github States 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=merko" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=merko" alt="Top Langs"/>
