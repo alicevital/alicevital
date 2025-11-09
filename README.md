@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alice!</h1>
+<h1 align="center">Hi there, I'm Alice Emily!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank">
