@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size:32px; color:#00a400;">Hi there, I'm Alice Emily!</span>
+  <span style="font-size:60 px; color:#00a400;">Hi there, I'm Alice Emily!</span>
 </p>
 
 
