@@ -16,11 +16,11 @@
 
 #### Connect With Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f2340?style=for-the-badge&logo=linkedin&logoColor=6a9bec" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0f2340?style=for-the-badge&logo=linkedin&logoColor=6a9bec" />
   </a>
-  <a href="mailto:alicevnascimento02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0f2340?style=for-the-badge&logo=gmail&logoColor=6a9bec" alt="Gmail Badge"/>
+  <a href="mailto:alicevnascimento02@gmail.com" target="_blank" style="display: inline-block; margin-left: 8px;">
+    <img src="https://img.shields.io/badge/Gmail-0f2340?style=for-the-badge&logo=gmail&logoColor=6a9bec" />
   </a>
 </p>
 
