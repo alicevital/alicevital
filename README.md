@@ -2,9 +2,9 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a9bec&height=120&section=header"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc94f4&size=25&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Alice+Emily+;Seja+Bem-vindo(a)+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+## My name is Alice! I'm a Back-End Developer. 
 
-### Tecnologias & Ferramentas
+### Technologies & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0f2340?style=for-the-badge&logo=python&logoColor=6a9bec"/>
   <img src="https://img.shields.io/badge/Django-0f2340?style=for-the-badge&logo=django&logoColor=6a9bec"/>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-0f2340?style=for-the-badge&logo=microsoftsqlserver&logoColor=6a9bec"/>
 </p>
 
-### Minhas Redes
+### Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f2340?style=for-the-badge&logo=linkedin&logoColor=6a9bec" alt="LinkedIn Badge"/>
