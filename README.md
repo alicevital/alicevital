@@ -31,3 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
+
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWltMnc5ZGE1cWY5OWxwNXJvcTF3OWI4ZzE0NG8ycXA4ZDdhenR3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="72%">
+</p>
