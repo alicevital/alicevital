@@ -1,7 +1,7 @@
 
 ## My name is Alice! I'm a Back-End Developer. 
 
-#### Technologies & Tools:
+### Technologies & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0f2340?style=for-the-badge&logo=python&logoColor=6a9bec"/>
   <img src="https://img.shields.io/badge/Django-0f2340?style=for-the-badge&logo=django&logoColor=6a9bec"/>
@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/SQL%20Server-0f2340?style=for-the-badge&logo=microsoftsqlserver&logoColor=6a9bec"/>
 </p>
 
-#### Connect With Me:
+### Connect With Me:
 
-  <a href = "emailto:alicevnascimento02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alicevnascimento02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=05071F&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
