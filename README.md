@@ -12,7 +12,6 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-0f2340?style=for-the-badge&logo=mongodb&logoColor=6a9bec"/>
   <img src="https://img.shields.io/badge/SQL%20Server-0f2340?style=for-the-badge&logo=microsoftsqlserver&logoColor=6a9bec"/>
   <img src="https://img.shields.io/badge/Docker-0f2340?style=for-the-badge&logo=docker&logoColor=6a9bec"/>
   <img src="https://img.shields.io/badge/Git-0f2340?style=for-the-badge&logo=git&logoColor=6a9bec"/>
