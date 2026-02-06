@@ -1,9 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=header"/>
 
 <div align="center">
-  <b style="color:#6a9bec;">プ ロ グ ラ マ</b>
+  <span style="color:#6a9bec;"><b>プ ロ グ ラ マ</b></span>
 </div>
-
 
 <div align="center" width="100%">
   <img 
@@ -12,11 +11,11 @@
   />
 </div>
 
-
-<h3 align="left" style="color:#c8a2c8;">
-  Technologies & Tools:
-</h3>
-
+<p>
+  <span style="color:#c8a2c8;">
+    <b style="font-size:18px;">Technologies & Tools</b>
+  </span>
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0f2340?style=for-the-badge&logo=python&logoColor=6a9bec"/>
@@ -34,9 +33,11 @@
   <img src="https://img.shields.io/badge/RabbitMQ-0f2340?style=for-the-badge&logo=rabbitmq&logoColor=6a9bec"/>
 </p>
 
-<h3 align="left" style="color:#c8a2c8;">
-    Connect with me:
-</h3>
+<p>
+  <span style="color:#c8a2c8;">
+    <b style="font-size:18px;">Connect with me:</b>
+  </span>
+</p>
 
   <a href="mailto:alicevnascimento02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-0f2340?style=for-the-badge&logo=gmail&logoColor=6a9bec"></a>
