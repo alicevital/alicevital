@@ -1,6 +1,16 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0f2340&section=header"/>
 
-## My name is Alice! I'm a Back-End Developer. 
+<div align="center">
+  <b>`プ ロ グ ラ マ`</b>
+</div>
+
+<div align="center" width="100%">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=6a9bec&width=900&size=22&center=true&lines=Hello,+my+name+is+Alice+Emily+👻;I+am+a+Backend+Developer;I+live+in+Pernambuco,+Brazil+👽;Be+welcome!+👾"
+    alt="Typing SVG"
+  />
+</div>
+
 
 ### Technologies & Tools:
 
@@ -29,6 +39,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=05071F&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="assets/giphy.gif" alt="Demo do projeto" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0f2340&section=footer"/>
