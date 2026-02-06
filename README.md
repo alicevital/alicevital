@@ -1,18 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0f2340&section=header"/>
 
 <div align="center">
-  <b>`プ ロ グ ラ マ`</b>
+  <b style="color:#6a9bec;">プ ロ グ ラ マ</b>
 </div>
+
 
 <div align="center" width="100%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=6a9bec&width=900&size=22&center=true&lines=Hello,+my+name+is+Alice+Emily+👻;I+am+a+Backend+Developer;I+live+in+Pernambuco,+Brazil+👽;Be+welcome!+👾"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C8A2C8&width=900&size=22&center=true&lines=Hello,+my+name+is+Alice+Emily+:D;I+am+a+Backend+Developer;I+live+in+Pernambuco,+Brazil;Be+welcome!+S2"
     alt="Typing SVG"
   />
 </div>
 
 
-### Technologies & Tools:
+<h3 align="left" style="color:#c8a2c8;">
+  Technologies & Tools:
+</h3>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0f2340?style=for-the-badge&logo=python&logoColor=6a9bec"/>
@@ -30,7 +34,9 @@
   <img src="https://img.shields.io/badge/RabbitMQ-0f2340?style=for-the-badge&logo=rabbitmq&logoColor=6a9bec"/>
 </p>
 
-### Connect with me:
+<h3 align="left" style="color:#c8a2c8;">
+    Connect with me:
+</h3>
 
   <a href="mailto:alicevnascimento02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-0f2340?style=for-the-badge&logo=gmail&logoColor=6a9bec"></a>
