@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0f2340&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=header"/>
 
 <div align="center">
   <b style="color:#6a9bec;">プ ロ グ ラ マ</b>
@@ -48,4 +48,4 @@
   <img src="assets/giphy.gif" alt="Demo do projeto" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0f2340&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=footer"/>
