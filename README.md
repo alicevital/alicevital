@@ -17,6 +17,7 @@
   </span>
 </p>
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0f2340?style=for-the-badge&logo=python&logoColor=6a9bec"/>
   <img src="https://img.shields.io/badge/Java-0f2340?style=for-the-badge&logo=java&logoColor=6a9bec"/>
@@ -43,10 +44,28 @@
   <img src="https://img.shields.io/badge/-Gmail-0f2340?style=for-the-badge&logo=gmail&logoColor=6a9bec"></a>
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0f2340?style=for-the-badge&logo=linkedin&logoColor=6a9bec" target="_blank"></a>
 
+
+<p align="center">
+  <i>We learn by doing what we are meant to do.</i><br>
+  <sub>— Aristotle</sub>
+</p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=05071F&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="assets/giphy.gif" alt="Demo do projeto" />
+  <img src="assets/girl.gif" alt="gif" />
 </p>
+
+<div style="text-align: center;">
+  <p align="center">
+    <a>
+      <img alt="Github Followers" 
+           src="https://img.shields.io/github/followers/alicevital?style=for-the-badge&logo=github&labelColor=%23232634&color=%23c8a2c8" />
+      <img alt="Github Stars" 
+           src="https://img.shields.io/github/stars/alicevital?style=for-the-badge&logo=polestar&labelColor=%23232634&color=%23c8a2c8" />
+    </a>
+  </p>
+</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=footer"/>
