@@ -11,12 +11,7 @@
   />
 </div>
 
-<p>
-  <span style="color:#c8a2c8;">
-    <b style="font-size:18px;">Technologies & Tools</b>
-  </span>
-</p>
-
+### Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0f2340?style=for-the-badge&logo=python&logoColor=6a9bec"/>
@@ -34,11 +29,7 @@
   <img src="https://img.shields.io/badge/RabbitMQ-0f2340?style=for-the-badge&logo=rabbitmq&logoColor=6a9bec"/>
 </p>
 
-<p>
-  <span style="color:#c8a2c8;">
-    <b style="font-size:18px;">Connect with me:</b>
-  </span>
-</p>
+### Connect with me:
 
   <a href="mailto:alicevnascimento02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-0f2340?style=for-the-badge&logo=gmail&logoColor=6a9bec"></a>
