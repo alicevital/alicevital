@@ -35,12 +35,6 @@
   <img src="https://img.shields.io/badge/-Gmail-0f2340?style=for-the-badge&logo=gmail&logoColor=6a9bec"></a>
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0f2340?style=for-the-badge&logo=linkedin&logoColor=6a9bec" target="_blank"></a>
 
-
-<p align="center">
-  <i>We learn by doing what we are meant to do.</i><br>
-  <sub>— Aristotle</sub>
-</p>
-
 ### Github States:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,5 +57,9 @@
   </p>
 </div>
 
+<p align="center">
+  <i>We learn by doing what we are meant to do.</i><br>
+  <sub>— Aristotle</sub>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=footer"/>
