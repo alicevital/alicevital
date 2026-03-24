@@ -41,6 +41,10 @@
   <sub>— Aristotle</sub>
 </p>
 
+### Github States:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=tokyonight)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=05071F&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
