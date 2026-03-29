@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=header"/>
 
 <div align="center">
-  <span style="color:#6a9bec;"><b>プ ロ グ ラ マ</b></span>
+  <span style="color:#6a9bec;"><b>Programmer</b></span>
 </div>
 
 <div align="center" width="100%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C8A2C8&width=900&size=22&center=true&lines=Hello,+my+name+is+Alice+Emily+:D;I+am+a+Backend+Developer;I+live+in+Pernambuco,+Brazil;Be+welcome!+S2"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C8A2C8&width=900&size=22&center=true&lines=Hello,+my+name+is+Alice+Emily+!;I+am+a+Backend+Developer;And+aspiring+cloud+computing;I+live+in+Brazil;Be+welcome!+:)"
     alt="Typing SVG"
   />
 </div>
@@ -56,10 +56,5 @@
     </a>
   </p>
 </div>
-
-<p align="center">
-  <i>We learn by doing what we are meant to do.</i><br>
-  <sub>— Aristotle</sub>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=footer"/>
