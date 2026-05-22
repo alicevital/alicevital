@@ -56,17 +56,71 @@ Cloud Computing | Distributed Systems
 
 ### Featured Projects:
 
-[![Matchy](https://github-readme-stats.vercel.app/api/pin/?username=alicevital&repo=matchy&theme=tokyonight)](https://github.com/alicevital/matchy)
+<table>
+<tr>
 
-[![Payflow](https://github-readme-stats.vercel.app/api/pin/?username=alicevital&repo=payflow-project&theme=tokyonight)](https://github.com/alicevital/payflow-project)
+<td width="50%">
+  <h3 align="center">Matchy</h3>
 
-[![Realtime Chat](https://github-readme-stats.vercel.app/api/pin/?username=alicevital&repo=realtime_chat&theme=tokyonight)](https://github.com/alicevital/realtime_chat)
+  <p align="center">
+     Recommendation system API designed to suggest content and products based on user behavior and interaction patterns.
+  </p>
 
-[![Words](https://github-readme-stats.vercel.app/api/pin/?username=alicevital&repo=words&theme=tokyonight)](https://github.com/alicevital/words)
+  <p align="center">
+    <a href="https://github.com/alicevital/matchy">
+      <img src="https://img.shields.io/badge/View_Repository-C8A2C8?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
 
-<p align="center">
-  <img src="assets/girl.gif" alt="gif" />
-</p>
+<td width="50%">
+  <h3 align="center">Payflow</h3>
+
+  <p align="center">
+    Payment management platform built with FastAPI, PostgreSQL, SQLAlchemy, Alembic and Docker, featuring cloud integration with Google Cloud.
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/alicevital/payflow-project">
+      <img src="https://img.shields.io/badge/View_Repository-C8A2C8?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+  <h3 align="center">Realtime Chat</h3>
+
+  <p align="center">
+    Real-time chat application focused on instant communication and websocket integration with Fastapi and Redis.
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/alicevital/realtime_chat">
+      <img src="https://img.shields.io/badge/View_Repository-C8A2C8?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+
+<td width="50%">
+  <h3 align="center">Words</h3>
+
+  <p align="center">
+    Web-based word guessing game where players have 5 attempts to discover the daily word. Built with FastAPI on the backend and a frontend developed using HTML, CSS and JavaScript.
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/alicevital/words">
+      <img src="https://img.shields.io/badge/View_Repository-C8A2C8?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+
+</tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alicevital&theme=tokyonight&hide_border=true"/>
@@ -82,5 +136,9 @@ Cloud Computing | Distributed Systems
     </a>
   </p>
 </div>
+
+<p align="center">
+  <img src="assets/girl.gif" alt="gif" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=footer"/>
