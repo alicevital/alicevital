@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=header"/>
 
 <div align="center">
-  <span style="color:#6a9bec;"><b>Programmer</b></span>
+  <span style="color:#6a9bec;"><b>software enginner</b></span>
 </div>
 
 <div align="center" width="100%">
@@ -11,7 +11,7 @@
   />
 </div>
 
-### Technologies & Tools
+### Technologies & Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0f2340?style=for-the-badge&logo=python&logoColor=6a9bec"/>
@@ -37,12 +37,13 @@
 
 ### Github Stats:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=alicevital&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alicevital&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=05071F&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Projects:
+
 
 
 <p align="center">
