@@ -35,12 +35,15 @@
   <img src="https://img.shields.io/badge/-Gmail-0f2340?style=for-the-badge&logo=gmail&logoColor=6a9bec"></a>
   <a href="https://www.linkedin.com/in/alice-nascimento-3821bb2b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0f2340?style=for-the-badge&logo=linkedin&logoColor=6a9bec" target="_blank"></a>
 
-### Github States:
+### Github Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicevital&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicevital&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=alicevital&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alicevital&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alicevital&bg_color=05071F&color=6a9bec&line=9c307c&point=29285f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <img src="assets/girl.gif" alt="gif" />
