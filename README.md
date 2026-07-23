@@ -137,8 +137,4 @@ Cloud Computing | Distributed Systems
   </p>
 </div>
 
-<p align="center">
-  <img src="assets/girl.gif" alt="gif" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=6a9bec&section=footer"/>
